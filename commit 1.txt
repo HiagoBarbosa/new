@@ -5,3 +5,4 @@ ajuste b.o
 ajuste bo 2.0
 
 ajuste d.o 30
+ajuste bo 4

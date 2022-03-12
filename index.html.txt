@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>DevOps com Gitlab!</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+  <h1>DevOps com Gitlab!</h1>
+
+  <p>Site criado com gitlab pages.</p>
+  <p><a href="das.html">Vai para DAS</a></p>
+</body>
+
+</html>

@@ -10,7 +10,7 @@
 <body>
   <h1>DevOps com Gitlab!</h1>
 
-  <p>Site criado com gitlab pages.</p>
+  <p>Site criado com gitlab pages. alterado 1 alterado 2 3 4 5 6</p>
   <p><a href="das.html">Vai para DAS</a></p>
 </body>
 
